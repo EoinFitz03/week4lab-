@@ -6,11 +6,11 @@ import java.util.Scanner;
 
 public class calculator {
     public static void main(String[]args){
-        Divide();
+        divide();
 
 }
 
-public static void Divide()
+public static void divide()
 {
     System.out.println("Please your first number : ");
     Scanner inputs = new Scanner(System.in);
